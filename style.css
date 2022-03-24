@@ -8,17 +8,16 @@ header {
 
 body {
     padding:3px;
-    font-size: 15px;
 }
 
 h1 {
     padding:3px;
-    font-size: 15px;
+    font-size: 35px;
 }
 
 p {
     padding:3px;
-    font-size: 10px;
+    font-size: 30px;
 }
 
 #content {
